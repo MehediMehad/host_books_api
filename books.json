@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "To Kill a Mockingbird",
+      "authorName": "Harper Lee",
+      "image_cover": "mockingbird.png",
+      "review": "To Kill a Mockingbird, written by Harper Lee and published in 1960, is a classic tale of justice and morality set in the American South during the 1930s. Narrated by Scout Finch, the novel explores themes of racial injustice, empathy, and the loss of innocence. At the heart of the story is the trial of Tom Robinson, a black man falsely accused of raping a white woman, Mayella Ewell. Through the eyes of Scout and her brother Jem, readers witness the deep-seated racism and prejudice that permeate their community. Atticus Finch, their father, serves as the moral compass of the novel, defending Tom Robinson despite facing backlash and threats from the townspeople. Lee's masterful storytelling and vivid characters make To Kill a Mockingbird a timeless classic that continues to resonate with readers of all ages. The novel challenges readers to confront uncomfortable truths about society while offering hope for change and redemption. With its rich symbolism and enduring message, To Kill a Mockingbird remains a must-read for anyone seeking to understand the complexities of the human condition.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": ["Fiction", "justice"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 1960,
+      "tags": ["classic", "justice"]
+    },
+    {
+      "bookId": 2,
+      "bookName": "1984",
+      "authorName": "George Orwell",
+      "image_cover": "1984.png",
+      "review": "1984, written by George Orwell and published in 1949, is a dystopian novel that explores themes of totalitarianism, surveillance, and the erosion of individual freedom. Set in a totalitarian society ruled by the Party and its leader, Big Brother, the story follows Winston Smith, a low-ranking member of the ruling Party who secretly rebels against its oppressive regime. As Winston navigates a world where independent thought is punishable by death, he grapples with the consequences of his defiance and the ever-present surveillance of the Thought Police. Orwell's vision of a dystopian future, characterized by constant war, propaganda, and government control, remains eerily prescient in today's world. 1984 serves as a warning against the dangers of authoritarianism and the manipulation of truth for political gain. With its chilling portrayal of a society devoid of privacy and individuality, 1984 continues to provoke thought and inspire debate about the nature of power and freedom.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": ["Classic", "Dystopian"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949,
+      "tags": ["dystopian", "surveillance"]
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Catcher in the Rye",
+      "authorName": "J.D. Salinger",
+      "image_cover": "rye.png",
+      "review": "The Catcher in the Rye, written by J.D. Salinger and published in 1951, is a coming-of-age novel that has become a modern classic. The story is narrated by Holden Caulfield, a disenchanted teenager who struggles with the phoniness and hypocrisy of the adult world. After being expelled from his prep school, Holden embarks on a journey through New York City, grappling with feelings of alienation and existential angst. Throughout the novel, Holden's cynical yet sensitive voice captures the disillusionment and vulnerability of adolescence with remarkable honesty. Salinger's portrayal of teenage rebellion and longing for authenticity continues to resonate with readers of all generations. The Catcher in the Rye remains a timeless masterpiece that explores themes of identity, alienation, and the search for meaning in a world that often feels cold and indifferent.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": ["Fiction", "History"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951,
+      "tags": ["coming-of-age", "modern classic"]
+    },
+    {
+      "bookId": 4,
+      "bookName": "Pride and Prejudice",
+      "authorName": "Jane Austen",
+      "image_cover": "prejudice.png",
+      "review": "Pride and Prejudice, written by Jane Austen and published in 1813, is a witty and romantic novel set in Georgian England. The story follows the spirited Elizabeth Bennet as she navigates the complexities of love, class, and societal expectations. When the wealthy and aloof Mr. Darcy enters her life, Elizabeth's prejudices are challenged, leading to a journey of self-discovery and personal growth. Austen's sharp wit and keen observation of human nature shine through in her memorable characters and sparkling dialogue. Pride and Prejudice is not only a timeless love story but also a biting satire of Georgian society, where marriage is often a means of social advancement. With its enduring appeal and universal themes, Pride and Prejudice continues to enchant readers worldwide, proving that true love can triumph over pride and prejudice.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": ["Love", "Romantic"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813,
+      "tags": ["romantic", "Georgian England"]
+    },
+    {
+      "bookId": 5,
+      "bookName": "Sapiens A Brief History of Humankind",
+      "authorName": "Yuval Noah Harari",
+      "image_cover": "sapiens.png",
+      "review": "Sapiens: A Brief History of Humankind, written by Yuval Noah Harari and published in 2011, is a thought-provoking journey through the history of Homo sapiens. From the emergence of our species in Africa to the present day, Harari traces the key developments that have shaped human civilization, including the Agricultural Revolution, the rise of empires, and the scientific discoveries that have transformed our understanding of the world. Drawing on insights from history, biology, anthropology, and economics, Sapiens challenges conventional wisdom about the nature of humanity and our place in the universe. Harari's engaging narrative style and interdisciplinary approach make complex ideas accessible to readers of all backgrounds. Sapiens offers a fresh perspective on the forces that have shaped our species and raises important questions about the future of Homo sapiens in an increasingly interconnected world.",
+      "totalPages": 443,
+      "rating": 4.8,
+      "category": ["Nonfiction", "History"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2011,
+      "tags": ["history", "anthropology"]
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "authorName": "J.R.R. Tolkien",
+      "image_cover": "hobbit.png",
+      "review": "The Hobbit, written by J.R.R. Tolkien and published in 1937, is a timeless fantasy adventure that has captivated readers of all ages for generations. A timeless adventure of Bilbo Baggins and the quest for treasure.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": ["Fiction", "History"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937,
+      "tags": ["adventure", "quest"]
+    }
+  ]
